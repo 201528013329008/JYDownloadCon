@@ -2,8 +2,8 @@
 //  DownLoadManager.m
 //  test1
 //
-//  Created by Mia on 16/7/30.
-//  Copyright © 2016年 Mia. All rights reserved.
+//  Created by 691 on 16/7/30.
+//  Copyright © 2016年 691. All rights reserved.
 //
 
 
